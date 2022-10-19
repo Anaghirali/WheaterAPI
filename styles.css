@@ -1,0 +1,50 @@
+
+.city{
+    font-size: 50px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.date{
+ font-size: 20px;
+ font-family: 'Rajdhani', sans-serif;
+}
+
+.container-temp{
+display: flex;
+justify-content: center;
+background-color: rgba(16, 137, 146, 0.342);
+font-size: 100px;
+font-weight: 900;
+text-shadow: 3px 6px  rgba(0, 0, 0, 0.2);
+cursor: pointer;
+}
+
+.weather{
+    font-size: 34px;
+    font-family: 'Rajdhani', sans-serif;
+
+
+}
+
+.low-high{
+    font-size: 25px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+
+.container-fluid{
+    margin-top: 7rem;
+}
+
+.card-body{
+    background-color: rgba(90, 190, 236, 0.212);
+}
+
+.card-header{
+    background-color: rgba(18, 125, 139, 0.568);
+}
+
+.card-footer{
+    background-color: rgba(18, 125, 139, 0.568);
+}
+
